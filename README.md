@@ -1,2 +1,0 @@
-# Vedveer-Systems
-Running Site
